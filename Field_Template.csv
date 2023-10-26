@@ -1,0 +1,3 @@
+Field_Name,Label,Length,Required,Type,Unique
+Custom_Field_1__c,Custom Field One,255,false,Text,false
+Custom_Field_2__c,Custom Field Two,255,false,Text,false
