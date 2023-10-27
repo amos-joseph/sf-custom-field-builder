@@ -1,3 +1,33 @@
 Field_Name,Label,Length,Required,Type,Unique
-Custom_Field_1__c,Custom Field One,255,false,Text,false
-Custom_Field_2__c,Custom Field Two,255,false,Text,false
+Recruiting_Website__c,Recruiting Website,255,false,Text,false
+Youtube_Link__c,YouTube Link,255,false,Text,false
+Club_Name__c,Club Name,255,false,Text,false
+Schedule_Link__c,Schedule Link,255,false,Text,false
+Coach_Name__c,Coach Name,255,false,Text,false
+Coach_Phone__c,Coach Phone Number,255,false,Text,false
+Coach_Email__c,Coach Email,255,false,Text,false
+Athletic_Honors__c,Athletic Honors,255,false,Text,false
+Scoring_Average__c,Scoring Average,255,false,Text,false
+Rebound_Average__c,Rebound Average,255,false,Text,false
+Field_Goal_Pct__c,Field Goal %,255,false,Text,false
+Three_Point_Pct__c,Three-Point %,255,false,Text,false
+Free_Throw_Pct__c,Free Throw %,255,false,Text,false
+Assist_Average__c,Assist Average,255,false,Text,false
+Steals__c,Steals,255,false,Text,false
+Blocks_Pct__c,Blocks %,255,false,Text,false
+Turnovers__c,Turnovers,255,false,Text,false
+Other_Sports__c,What other sports at Doane are you considering?,255,false,Text,false
+State_Placings__c,State Placings,255,false,Text,false
+Overall_Record__c,Overall Record,255,false,Text,false
+National_Placings__c,National Placings,255,false,Text,false
+Tournaments_Attending__c,Tournaments Attending,255,false,Text,false
+Home_Course__c,Home Course,255,false,Text,false
+Current_Handicap__c,Current Handicap,255,false,Text,false
+Average_18_Hole_Score__c,Average 18-hole Score,255,false,Text,false
+Lowest_Tournament_Score__c,Lowest Tournament Score,255,false,Text,false
+Golf_Honors_Received__c,Golf Honors Received,255,false,Text,false
+Other_Colleges_Considering__c,What other colleges are you considering?,255,false,Text,false
+Current_Interest__c,Current interest regarding Doane College,255,false,Text,false
+Hudl_Link__c,Hudl Link,255,false,Text,false
+Team_and_Conference__c,High School Team and Conference if not from Nebraska,255,false,Text,false
+Summer_Team__c,Summer Team Name,255,false,Text,false

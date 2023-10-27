@@ -16,3 +16,11 @@ Step 4: Copy the XML files that were created in the metadata directory into the 
 Step 5: Run the sfdx commands from the commands.txt file that was generated in Step 3.
 
 Step 6: Profit.
+
+If you need to edit field permissions in bulk you can use the following commands to pull field permissions for specific profiles:
+
+sfdx force:source:retrieve -m Profile:Coach,CustomObject:Member__c
+
+Once you've editited the permission metadata you can then re-deploy:
+
+sfdx force:source:deploy -m Profile:Coach  
